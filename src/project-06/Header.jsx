@@ -8,7 +8,7 @@ export default function Header() {
                 <h1>MemeGenerator</h1>
             </div>
             <div className="project-num">
-                <h3>React Course - Project-06</h3>
+                <h3>React Course</h3>
             </div>
         </div>
     )
